@@ -1,0 +1,51 @@
+html {height: 100%;}
+body {background-color: #f7f7f7; font-family: 'Raleway', sans-serif;}
+h1 {font-size: 7em; font-weight: 900;}
+h2 {font-size: 1.3em; font-weight: 300;}
+
+
+/* Footer */
+
+/* Social Top */
+#social-top .svg-icon {
+  width: 2em;
+  height: 2em;
+}
+
+#social-top .svg-icon path,
+#social-top .svg-icon polygon,
+#social-top .svg-icon rect {
+  fill: #151515;
+}
+
+#social-top .svg-icon circle {
+  stroke: #151515;
+  stroke-width: 1;
+}
+
+/* SVG */
+.svg-icon {
+  width: 2em;
+  height: 2em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #fafafa;
+}
+
+.svg-icon circle {
+  stroke: #fafafa;
+  stroke-width: 1;
+}
+
+/* Bootstrap Colors */
+.bg-danger {background-color: #d63447 !important;}
+.bg-warning {background-color: #e5d429 !important;}
+.bg-info {background-color: #f57b51 !important;}
+.bg-secondary {background-color: #f6eedf !important;}
+.bg-dark {background-color: #5d5d5d !important;}
+.bg-success {background-color: #a0c334 !important;}
+.bg-black {background-color: #151515 !important;}
+.line-success{border: 3px solid #a0c334;}
