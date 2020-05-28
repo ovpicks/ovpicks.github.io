@@ -49,3 +49,8 @@ h2 {font-size: 1.3em; font-weight: 300;}
 .bg-success {background-color: #a0c334 !important;}
 .bg-black {background-color: #151515 !important;}
 .line-success{border: 3px solid #a0c334;}
+
+/* Responsive */
+@media screen and (max-width: 767px) {
+  h1 {font-size: 3em;}
+}
